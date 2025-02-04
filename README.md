@@ -4,6 +4,8 @@ Challenge del programa **One Oracle Next Education** de la plataforma AluraLatam
 
 Con el objetivo de practicar y consolidar los conocimientos de los cursos de lógica de programación con JavaScript.
 
+### [Accede desde este enlace.](https://fersh5.github.io/challenge-amigo-secreto/)
+
 ### Funcionalidades:
 * Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
